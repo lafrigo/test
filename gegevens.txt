@@ -1,0 +1,7 @@
+Studentennummer: r1167411
+Naam: Lamine Dene
+Opleiding: Informatica
+Woonplaats: Kortrijk
+Favoriete kleur: Donkerblauw
+Favoriete hobby: Slapen
+Favoriete programmeertaal: Java
